@@ -319,6 +319,7 @@ html
     padding: 20px;
     margin-top: 10px;
     border: 1px solid white;
+    border-radius: 5px;
     color: white;
     cursor: pointer;
 
